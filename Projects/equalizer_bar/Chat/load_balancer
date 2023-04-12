@@ -1,0 +1,3 @@
+def use_load_balancer():
+    # Use a load balancer to distribute incoming connections across multiple servers
+    pass
